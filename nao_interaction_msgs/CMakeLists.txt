@@ -21,6 +21,7 @@ add_message_files(DIRECTORY msg
     FILES
     #~ nao_vision
     FaceDetected.msg 
+    FacesDetected.msg 
     MovementDetected.msg 
     LandmarkDetected.msg 
     #~ nao_audio
