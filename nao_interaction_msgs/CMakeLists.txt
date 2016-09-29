@@ -24,6 +24,12 @@ add_message_files(DIRECTORY msg
     FacesDetected.msg 
     MovementDetected.msg 
     LandmarkDetected.msg 
+    PersonCharacteristics.msg
+    PersonCharacteristicsArray.msg
+    ExpressionProperties.msg
+    FaceCharacteristics.msg
+    GazeInfo.msg
+    PersonInfo.msg
     #~ nao_audio
     AudioSourceLocalization.msg
 )
