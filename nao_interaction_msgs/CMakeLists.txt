@@ -32,6 +32,7 @@ add_message_files(DIRECTORY msg
     PersonInfo.msg
     #~ nao_audio
     AudioSourceLocalization.msg
+    BatteryInfo.msg
 )
 
 #Add service files
