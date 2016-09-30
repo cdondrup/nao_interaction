@@ -3,7 +3,7 @@
 
 Header header
 
-nao_interaction_msgs/FaceDetected[] faces
+nao_interaction_msgs/FaceDetected[] face_array
 
 # Camera related information
 

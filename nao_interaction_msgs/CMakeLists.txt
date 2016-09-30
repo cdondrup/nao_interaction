@@ -21,13 +21,13 @@ add_message_files(DIRECTORY msg
     FILES
     #~ nao_vision
     FaceDetected.msg 
-    FacesDetected.msg 
+    FaceDetectedArray.msg 
     MovementDetected.msg 
     LandmarkDetected.msg 
-    PersonCharacteristics.msg
-    PersonCharacteristicsArray.msg
+    PersonDetected.msg
+    PersonDetectedArray.msg
     ExpressionProperties.msg
-    FaceCharacteristics.msg
+    FaceInfo.msg
     GazeInfo.msg
     PersonInfo.msg
     #~ nao_audio
