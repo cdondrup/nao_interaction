@@ -21,10 +21,18 @@ add_message_files(DIRECTORY msg
     FILES
     #~ nao_vision
     FaceDetected.msg 
+    FaceDetectedArray.msg 
     MovementDetected.msg 
     LandmarkDetected.msg 
+    PersonDetected.msg
+    PersonDetectedArray.msg
+    ExpressionProperties.msg
+    FaceInfo.msg
+    GazeInfo.msg
+    PersonInfo.msg
     #~ nao_audio
     AudioSourceLocalization.msg
+    BatteryInfo.msg
 )
 
 #Add service files

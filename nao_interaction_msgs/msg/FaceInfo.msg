@@ -1,0 +1,7 @@
+int32 age
+float32 age_confidence
+ExpressionProperties expression_properties
+int32 gender
+float32 gender_confidence
+float32 smile_degree
+float32 smile_degree_confidence
