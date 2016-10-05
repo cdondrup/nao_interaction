@@ -45,6 +45,8 @@ add_service_files(DIRECTORY srv
     AudioRecorder.srv
     AudioMasterVolume.srv
     AudioPlayback.srv
+    BehaviorManagerInfo.srv
+    BehaviorManagerControl.srv
 )
 
 #And now generate the messages
