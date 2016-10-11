@@ -30,6 +30,10 @@ add_message_files(DIRECTORY msg
     FaceInfo.msg
     GazeInfo.msg
     PersonInfo.msg
+    Expression.msg
+    ValueConfidence.msg
+    PersonMood.msg
+    PersonMoodArray.msg
     #~ nao_audio
     AudioSourceLocalization.msg
     BatteryInfo.msg

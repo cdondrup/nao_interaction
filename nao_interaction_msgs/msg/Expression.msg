@@ -1,0 +1,7 @@
+ValueConfidence calm
+ValueConfidence anger
+ValueConfidence joy
+ValueConfidence sorrow
+ValueConfidence laughter
+ValueConfidence excitement
+ValueConfidence surprise

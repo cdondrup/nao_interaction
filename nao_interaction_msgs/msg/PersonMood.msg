@@ -1,0 +1,6 @@
+int32  id
+ValueConfidence valence
+ValueConfidence attention
+ValueConfidence ease_level
+ValueConfidence smile
+Expression expression
