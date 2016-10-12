@@ -5,6 +5,7 @@ project(nao_interaction_msgs)
 set( MESSAGE_DEPENDENCIES
     std_msgs
     actionlib_msgs
+    diagnostic_msgs
     geometry_msgs
     sensor_msgs
     nav_msgs
@@ -45,6 +46,8 @@ add_service_files(DIRECTORY srv
     AudioRecorder.srv
     AudioMasterVolume.srv
     AudioPlayback.srv
+    #~ nao_memory
+    MemoryInsert.srv
 )
 
 #And now generate the messages
