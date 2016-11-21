@@ -47,6 +47,9 @@ add_service_files(DIRECTORY srv
     AudioPlayback.srv
     BehaviorManagerInfo.srv
     BehaviorManagerControl.srv
+    SetTrackerTarget.srv
+    SetTrackerMode.srv
+    StartTracker.srv
 )
 
 #And now generate the messages

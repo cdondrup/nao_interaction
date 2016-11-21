@@ -1,0 +1,6 @@
+string FACE=Face
+string PEOPLE=People
+string SOUND=Sound
+
+string target
+---
