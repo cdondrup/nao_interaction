@@ -1,0 +1,6 @@
+string HEAD=Head
+string WHOLEBODY=WholeBody
+string MOVE=Move
+
+string mode
+---
