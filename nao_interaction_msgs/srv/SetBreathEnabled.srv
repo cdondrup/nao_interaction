@@ -1,0 +1,10 @@
+string HEAD=Head
+string BODY=Body
+string ARMS=Arms
+string LARM=LArm
+string RARM=RArm
+string LEGS=Legs
+
+string chain_name
+bool enable
+---

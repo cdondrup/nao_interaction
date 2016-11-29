@@ -1,0 +1,9 @@
+int32 FRAME_TORSO=0
+int32 FRAME_WORLD=1
+int32 FRAME_ROBOT=2
+
+geometry_msgs/Vector3 target
+int32 frame
+float32 max_speed_fraction
+bool use_whole_body
+---
