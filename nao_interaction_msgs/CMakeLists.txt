@@ -57,6 +57,7 @@ add_service_files(DIRECTORY srv
     LocalizationTriggerString.srv
     LocalizationCheck.srv
     LocalizationGetErrorMessage.srv
+    Say.srv
 )
 
 #And now generate the messages
