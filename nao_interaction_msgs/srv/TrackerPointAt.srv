@@ -1,0 +1,13 @@
+int32 FRAME_TORSO=0
+int32 FRAME_WORLD=1
+int32 FRAME_ROBOT=2
+
+string EFFECTOR_ARMS=Arms
+string EFFECTOR_LARM=LArm
+string EFFECTOR_RARM=RArm
+
+string effector
+geometry_msgs/Vector3 target
+int32 frame
+float32 max_speed_fraction
+---

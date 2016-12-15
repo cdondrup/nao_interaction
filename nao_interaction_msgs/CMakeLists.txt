@@ -50,6 +50,16 @@ add_service_files(DIRECTORY srv
     SetTrackerTarget.srv
     SetTrackerMode.srv
     StartTracker.srv
+    TrackerPointAt.srv
+    TrackerLookAt.srv
+    SetBreathEnabled.srv
+    LocalizationTrigger.srv
+    LocalizationTriggerString.srv
+    LocalizationCheck.srv
+    LocalizationGetErrorMessage.srv
+    Say.srv
+    GoToPosture.srv
+    GoToPose.srv
 )
 
 #And now generate the messages
