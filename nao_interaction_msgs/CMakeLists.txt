@@ -58,6 +58,8 @@ add_service_files(DIRECTORY srv
     LocalizationCheck.srv
     LocalizationGetErrorMessage.srv
     Say.srv
+    GoToPosture.srv
+    GoToPose.srv
 )
 
 #And now generate the messages
