@@ -60,6 +60,7 @@ add_service_files(DIRECTORY srv
     Say.srv
     GoToPosture.srv
     GoToPose.srv
+    Explore.srv
 )
 
 #And now generate the messages
