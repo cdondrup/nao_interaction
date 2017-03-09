@@ -2,4 +2,4 @@
 
 int32 radius
 ---
-# Empty response
+string path_to_map
