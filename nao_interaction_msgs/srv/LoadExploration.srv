@@ -2,3 +2,4 @@
 
 string path_to_map
 ---
+bool result
