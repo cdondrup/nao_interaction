@@ -1,0 +1,5 @@
+# Service for relocalizing in the map
+
+geometry_msgs/PoseStamped pose
+---
+bool result

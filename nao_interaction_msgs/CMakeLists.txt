@@ -62,6 +62,7 @@ add_service_files(DIRECTORY srv
     GoToPose.srv
     Explore.srv
     LoadExploration.srv
+    RelocalizeInMap.srv
 )
 
 #And now generate the messages
